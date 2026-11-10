@@ -1,0 +1,6 @@
+{
+  "name": "CJSERVO - High Performance RC Servos & Precision Actuators",
+  "description": "Official portal for CJ.SERVO: competition RC brushless servos, titanium gear trains, and precision industrial actuators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
